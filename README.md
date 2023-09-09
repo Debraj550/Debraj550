@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Debraj Dhar</h1>
 <h3 align="center">A Masters student at BITS Pilani with experience in MERN stack development, AI/ML/Computer Vision, and Database Administration. </h3>
-<img align="right" alt="Coding" width="300" src="https://github.com/Debraj550/Debraj550/blob/master/cat_typing.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debraj550&label=Profile%20views&color=0e75b6&style=flat" alt="debraj550" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debraj550" alt="debraj550" /></a> </p>
-
+<img align="right" alt="Coding" width="300" src="https://github.com/Debraj550/Debraj550/blob/master/cat_typing.gif">
 - 🔭 I’m currently working on **MERN Stack end to end projects**
 
 - 🌱 I’m currently learning **Docker, Kubernates and AWS**
