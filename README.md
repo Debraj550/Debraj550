@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debraj Dhar</h1>
 <h3 align="center">A Masters student at BITS Pilani with experience in MERN stack development, AI/ML/Computer Vision, and Database Administration. </h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/Debraj550/Debraj550/blob/master/cat_typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debraj550&label=Profile%20views&color=0e75b6&style=flat" alt="debraj550" /> </p>
 
