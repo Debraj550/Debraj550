@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debraj Dhar</h1>
-<h3 align="center">A Full stack and an AI/ML/Computer Vision Developer from BITS, Pilani</h3>
+<h3 align="center">A Postgraduate student of BITS, Pilani with experience in MERN stack development, AI/ML/Computer Vision, and Database Administration. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debraj550&label=Profile%20views&color=0e75b6&style=flat" alt="debraj550" /> </p>
 
