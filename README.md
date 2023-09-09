@@ -6,17 +6,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debraj550" alt="debraj550" /></a> </p>
 <img align="right" alt="Coding" width="300" src="https://github.com/Debraj550/Debraj550/blob/master/cat_typing.gif">
-- 🔭 I’m currently working on **MERN Stack end to end projects**
+
+- 🔭 I’m currently working on **MERN Stack end-to-end projects.**
 
 - 🌱 I’m currently learning **Docker, Kubernates and AWS**
 
 - 👨‍💻 All of my projects are available at [debrajdhar.com](debrajdhar.com)
 
-- 💬 Ask me about **MERN Stack, Computer Vision and Database Administration.**
+- 💬 Ask me about **MERN Stack, Computer Vision, and Database Administration.**
 
 - 📫 How to reach me **debrajdhar100@gmail.com**
 
-- ⚡ Fun fact **I love traveling, reading fantasy novels,watching K-Drama and animes.**
+- ⚡ Fun fact **I love traveling, reading fantasy novels, watching K-Drama and animes. I Love CATS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
