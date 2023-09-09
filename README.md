@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [debrajdhar.com](debrajdhar.com)
 
-- 💬 Ask me about **MERN Stack, Computer Vision and Database Administration**
+- 💬 Ask me about **MERN Stack, Computer Vision and Database Administration.**
 
 - 📫 How to reach me **debrajdhar100@gmail.com**
 
-- ⚡ Fun fact **I love traveling, reading fantasy novels, watching K-Drama and animes. **
+- ⚡ Fun fact **I love traveling, reading fantasy novels,watching K-Drama and animes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
