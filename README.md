@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes and AWS**
 
-- 👨‍💻 All of my projects are available at [debrajdhar.com](https://debrajdhar-com.vercel.app/)
+- 👨‍💻 All of my projects are available at [debrajdhar.com](https://debrajdhar.com/)
 
 - 💬 Ask me about **MERN Stack, Computer Vision, and Database Administration.**
 
