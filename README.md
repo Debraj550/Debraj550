@@ -30,13 +30,21 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Profiles:</h3>
   
 <span align="left">
-<a href="https://linkedin.com/in/debraj1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debraj1234" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/debrajdhar100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debrajdhar100" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/debrajdhar100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="debrajdhar100" height="30" width="40" /></a>
-<a href="https://instagram.com/debraj_dhar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debraj_dhar_" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/debraj1234" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.leetcode.com/debrajdhar100" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/debrajdhar100" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="geeksforgeeks" />
+  </a>
+  <a href="https://instagram.com/debraj_dhar_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" />
+  </a>
 </span>
 
 
