@@ -15,13 +15,13 @@
 <h3 align="left">Work Experience:</h3>
 
 - **Tata Consultancy Services Limited:** [May 2019 - Sep 2022] (3+ Years)
-  - System Engineer:
+  - _System Engineer_:
     - Responsible for managing over 100+ production and staging servers as a Production Support DBA (SQL Server).
     - Managed cluster configurations and handled active group failovers and distributions along with DB Backup/Restoration when required.
     - Managed DB security permissions (Grant / Revoke).
     - Created stored procedures/SQL Queries based on business requirements, along with scheduled maintenance tasks and SSIS Package deployments.
     - Responsible for Query performance analysis and report generation 
-  - Assistant System Engineer:
+  - _Assistant System Engineer:_
     - Developed UI Dashboard using React, and Material UI per business requirements.
     - Integrated RESTful APIs, enhancing data retrieval and enabling dynamic content updates without a full page reload.
     - Participated in Agile development processes, contributing to sprint planning, daily stand-ups, and bi-weekly retrospectives.
