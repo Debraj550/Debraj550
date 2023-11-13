@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Debraj Dhar</h1>
 <h3 align="center">A Masters student at BITS Pilani with experience in MERN stack development, AI/ML/Computer Vision/NLP, and Database Administration. </h3>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/Debraj550/Debraj550/blob/master/cat_typing.gif">
 
-- 🔭 I’m currently working on **MERN Stack and Deep learning project.**
+<div align="center">
+    <img alt="Coding" width="300" src="https://github.com/Debraj550/Debraj550/blob/master/cat_typing.gif">
+</div>
 
-- 👨‍💻 Portfolio -  [debrajdhar.com](https://debrajdhar.com/)
+## About Me
 
-- 📫 Reach me at -  **debrajdhar100@gmail.com**
+- 🔭 I’m currently working on MERN Stack and Deep learning project.
+- 👨‍💻 Portfolio - [debrajdhar.com](https://debrajdhar.com/)
+- 📫 Reach me at - debrajdhar100@gmail.com
+- ⚡ Fun fact: I love traveling, reading fantasy novels, watching K-Drama and animes. I love CATS.
 
-- ⚡ Fun fact **I love traveling, reading fantasy novels, watching K-Drama and animes. I Love CATS.**
-
-
-<h3 align="left">Work Experience:</h3>
+## Work Experience:
 
 - **Tata Consultancy Services Limited:** [May 2019 - Sep 2022] (3+ Years)
   - _System Engineer_:
@@ -30,7 +31,7 @@
 
 
 
-<h3 align="left">Social Profiles:</h3>
+## Social Profiles:
   
 <span align="left">
   <a href="https://www.linkedin.com/in/debraj1234" target="_blank" rel="noopener noreferrer">
@@ -50,7 +51,7 @@
 
 
 
-<h3 align="left">Programming Languages:</h3>
+## Programming Languages:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -60,7 +61,7 @@
 
 
 
-<h3 align="left"> Web Development and Cloud: </h3>
+## Web Development and Cloud: 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -80,7 +81,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<h3 align="left"> Machine Learning/CV/NLP: </h3>
+##  Machine Learning/CV/NLP: 
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -96,7 +97,7 @@
 
 
 
-<h3 align="left">Statistics:</h3>
+## Github Statistics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debraj550&show_icons=true&locale=en&layout=compact" alt="debraj550" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debraj550&show_icons=true&locale=en" alt="debraj550" /></p>
