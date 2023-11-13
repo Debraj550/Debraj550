@@ -15,6 +15,12 @@
 
 ## Work Experience:
 
+- **Teaching Assistant, BITS Pilani: [Sep 2022 - Present]**
+  - Have worked under Dr. Navneet Goyal (HOD of the CSIS Department at BITS Pilani) on contextual LLM models for a Govt. funded Project.
+  - Worked on Hi-CMD person reidentification algorithm to classify human abnormalities under different conditions.
+  - Gained extensive knowledge of Diffusion models, GANs, and Transformers.
+  - Developed personal projects using MERN Stack, AI/ML Models, and AWS.
+ 
 - **Tata Consultancy Services Limited:** [May 2019 - Sep 2022] (3+ Years)
   - _System Engineer_:
     - Responsible for managing over 100+ production and staging servers as a Production Support DBA (SQL Server).
