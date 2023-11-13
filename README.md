@@ -3,20 +3,34 @@
 
 <img align="right" alt="Coding" width="300" src="https://github.com/Debraj550/Debraj550/blob/master/cat_typing.gif">
 
-- 🔭 I’m currently working on **MERN Stack end-to-end projects.**
+- 🔭 I’m currently working on **MERN Stack and Deep learning project.**
 
-- 🌱 I’m currently learning **Docker, Kubernetes and AWS**
+- 👨‍💻 Portfolio -  [debrajdhar.com](https://debrajdhar.com/)
 
-- 👨‍💻 All of my projects are available at [debrajdhar.com](https://debrajdhar.com/)
-
-- 💬 Ask me about **MERN Stack, Computer Vision, and Database Administration.**
-
-- 📫 How to reach me **debrajdhar100@gmail.com**
+- 📫 Reach me at -  **debrajdhar100@gmail.com**
 
 - ⚡ Fun fact **I love traveling, reading fantasy novels, watching K-Drama and animes. I Love CATS.**
 
-<h3 align="left">Connect with me:</h3>
 
+<h3 align="left">Work Experience:</h3>
+
+- **Tata Consultancy Services Limited:** [May 2019 - Sep 2022] (3+ Years)
+  - System Engineer:
+    - Responsible for managing over 100+ production and staging servers as a Production Support DBA (SQL Server).
+    - Managed cluster configurations and handled active group failovers and distributions along with DB Backup/Restoration when required.
+    - Managed DB security permissions (Grant / Revoke).
+    - Created stored procedures/SQL Queries based on business requirements, along with scheduled maintenance tasks and SSIS Package deployments.
+    - Responsible for Query performance analysis and report generation 
+  - Assistant System Engineer:
+    - Developed UI Dashboard using React, and Material UI per business requirements.
+    - Integrated RESTful APIs, enhancing data retrieval and enabling dynamic content updates without a full page reload.
+    - Participated in Agile development processes, contributing to sprint planning, daily stand-ups, and bi-weekly retrospectives.
+    - Worked closely with UX/UI designers to implement visually appealing and user-friendly interfaces, incorporating feedback to refine the user experience.
+    - Collaborated in a cross-functional team environment, fostering open communication and knowledge sharing among team members.
+
+
+
+<h3 align="left">Connect with me:</h3>
   
 <span align="left">
 <a href="https://linkedin.com/in/debraj1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debraj1234" height="30" width="40" /></a>
