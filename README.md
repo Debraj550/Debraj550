@@ -1,38 +1,31 @@
-<h1 align="center">Hi 👋, I'm Debraj Dhar</h1>
-<h3 align="center">A Masters student at BITS Pilani with experience in MERN stack development, AI/ML/Computer Vision/NLP, and Database Administration. </h3>
 
 
-<div align="center">
-    <img alt="Coding" width="300" src="https://github.com/Debraj550/Debraj550/blob/master/cat_typing.gif">
-</div>
+| <h1 align="center">Hi 👋, I'm Debraj Dhar</h1> A Masters student at BITS Pilani with experience in MERN stack, AI/ML/Computer Vision/NLP, and Database Administration. | ![Coding](https://github.com/Debraj550/Debraj550/blob/master/cat_typing.gif) |
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+
 
 ## About Me
 
 - 🔭 I’m currently working on MERN Stack and Deep learning project.
 - 👨‍💻 Portfolio - [debrajdhar.com](https://debrajdhar.com/)
+- ⬇️ Resume / CV - [Debraj_Dhar_CV](https://drive.google.com/file/d/1Zvpub6bPrr8RSBn-mQHvBEY0nIwzr7gZ/view?usp=drive_link)
 - 📫 Reach me at - debrajdhar100@gmail.com
 - ⚡ Fun fact: I love traveling, reading fantasy novels, watching K-Drama and animes. I love CATS.
 
 ## Work Experience:
 
 - **Teaching Assistant, BITS Pilani: [Sep 2022 - Present]**
-  - Have worked under Dr. Navneet Goyal (HOD of the CSIS Department at BITS Pilani) on contextual LLM models for a Govt. funded Project.
+  - Have worked on contextual LLM models for a Govt. funded Project.
   - Worked on Hi-CMD person reidentification algorithm to identify human abnormalities under different conditions.
-  - Gained extensive knowledge of Diffusion models, GANs, and Transformers.
-  - Developed personal projects using MERN Stack, AI/ML Models, and AWS.
+  - Gained extensive knowledge of Diffusion models, GANs, and Transformers and developed personal projects using MERN Stack, AI/ML Models, and Cloud technologies.
  
 - **Tata Consultancy Services Limited: [May 2019 - Sep 2022] (3+ Years)**
-  - _System Engineer_:
+  - _System Engineer_: ( SQL Server, Azure Datalake, Power BI)
     - Responsible for managing over 100+ production and staging servers as a Production Support DBA (SQL Server).
     - Managed cluster configurations and handled active group failovers and distributions along with DB Backup/Restoration when required.
-    - Managed DB security permissions (Grant / Revoke).
-    - Created stored procedures/SQL Queries based on business requirements, along with scheduled maintenance tasks and SSIS Package deployments.
-    - Responsible for Query performance analysis and report generation 
-  - _Assistant System Engineer:_
-    - Developed UI Dashboard using React, and Material UI per business requirements.
-    - Integrated RESTful APIs, enhancing data retrieval and enabling dynamic content updates without a full page reload.
+  - _Assistant System Engineer:_ (React JS, Material UI, Github)
+    - Developed UI Dashboard using ReactJS, and Material UI per business requirements, along with integration of RESTful APIs.
     - Participated in Agile development processes, contributing to sprint planning, daily stand-ups, and bi-weekly retrospectives.
-    - Worked closely with UX/UI designers to implement visually appealing and user-friendly interfaces, incorporating feedback to refine the user experience.
     - Collaborated in a cross-functional team environment, fostering open communication and knowledge sharing among team members.
 
 
@@ -106,5 +99,5 @@
 ## Github Statistics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debraj550&show_icons=true&locale=en&layout=compact" alt="debraj550" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debraj550&show_icons=true&locale=en" alt="debraj550" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=debraj550&show_icons=true&locale=en" alt="debraj550" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debraj550&" alt="debraj550" /></p>
