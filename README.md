@@ -14,7 +14,12 @@
 
 ## Work Experience:
 
-- **Teaching Assistant, BITS Pilani: [Sep 2022 - Present]**
+- **Software Engineer, Wakefit: [Jan 2024 - Present]**
+  - Have been working as a frontend developer for the revenue pod and nextjs revamp team.
+  - Complete ownership of the post purchase survey window and the wallet page along with wallet side panel.
+  - Experience with technologies such as ReactJs/NextJs, Javascript/Typescript, tanstack query, trpc, zod, tailwind/shadcn, postcss, jenkins deployments, aws s3.
+
+- **Teaching Assistant, BITS Pilani: [Sep 2022 - Dec 2023]**
   - Have worked on contextual LLM models for a Govt. funded Project.
   - Worked on Hi-CMD person reidentification algorithm to identify human abnormalities under different conditions.
   - Gained extensive knowledge of Diffusion models, GANs, and Transformers and developed personal projects using MERN Stack, AI/ML Models, and Cloud technologies.
