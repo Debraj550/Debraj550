@@ -17,7 +17,7 @@
 - **Software Engineer, Wakefit: [Jan 2024 - Present]**
   - Have been working as a frontend developer for the revenue pod and nextjs revamp team.
   - Complete ownership of the post purchase survey window and the wallet page along with wallet side panel.
-  - Experience with technologies such as ReactJs/NextJs, Javascript/Typescript, tanstack query, trpc, zod, tailwind/shadcn, postcss, jenkins deployments, aws s3.
+  - Experience with technologies such as ReactJs/NextJs, Javascript/Typescript, tanstack query, Redux, Jotai, trpc, zod, tailwind/shadcn, postcss, jenkins deployments, aws s3.
 
 - **Teaching Assistant, BITS Pilani: [Sep 2022 - Dec 2023]**
   - Have worked on contextual LLM models for a Govt. funded Project.
