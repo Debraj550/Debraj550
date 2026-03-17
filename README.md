@@ -1,6 +1,6 @@
 
 
-| <h1 align="center">Hi 👋, I'm Debraj Dhar</h1> A Masters student at BITS Pilani with experience in MERN stack, AI/ML/Computer Vision/NLP, and Database Administration. | ![Coding](https://github.com/Debraj550/Debraj550/blob/master/cat_typing.gif) |
+| <h1 align="center">Hi 👋, I'm Debraj Dhar</h1> Senior Software Engineer with 5+ years of experience in full-stack development, complemented by strong knowledge of AI-driven systems. | ![Coding](https://github.com/Debraj550/Debraj550/blob/master/cat_typing.gif) |
 |--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 
 
@@ -14,25 +14,10 @@
 
 ## Work Experience:
 
-- **Software Engineer, Wakefit: [Jan 2024 - Present]**
-  - Have been working as a frontend developer for the revenue pod and nextjs revamp team.
-  - Complete ownership of the post purchase survey window and the wallet page along with wallet side panel.
-  - Experience with technologies such as ReactJs/NextJs, Javascript/Typescript, tanstack query, Redux, Jotai, trpc, zod, tailwind/shadcn, postcss, jenkins deployments, aws s3.
-
+- **Software Engineer, Nike: [July 2025 - Present]**
+- **Software Engineer, Wakefit: [Jan 2024 - July 2025]**
 - **Teaching Assistant, BITS Pilani: [Sep 2022 - Dec 2023]**
-  - Have worked on contextual LLM models for a Govt. funded Project.
-  - Worked on Hi-CMD person reidentification algorithm to identify human abnormalities under different conditions.
-  - Gained extensive knowledge of Diffusion models, GANs, and Transformers and developed personal projects using MERN Stack, AI/ML Models, and Cloud technologies.
- 
 - **Tata Consultancy Services Limited: [May 2019 - Sep 2022] (3+ Years)**
-  - _System Engineer_: ( SQL Server, Azure Datalake, Power BI)
-    - Responsible for managing over 100+ production and staging servers as a Production Support DBA (SQL Server).
-    - Managed cluster configurations and handled active group failovers and distributions along with DB Backup/Restoration when required.
-  - _Assistant System Engineer:_ (React JS, Material UI, Github)
-    - Developed UI Dashboard using ReactJS, and Material UI per business requirements, along with integration of RESTful APIs.
-    - Participated in Agile development processes, contributing to sprint planning, daily stand-ups, and bi-weekly retrospectives.
-    - Collaborated in a cross-functional team environment, fostering open communication and knowledge sharing among team members.
-
 
 
 ## Social Profiles:
@@ -47,9 +32,6 @@
   <a href="https://auth.geeksforgeeks.org/user/debrajdhar100" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="geeksforgeeks" />
   </a>
-  <a href="https://instagram.com/debraj_dhar_" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" />
-  </a>
 </span>
 
 
@@ -57,11 +39,11 @@
 
 ## Programming Languages:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
 
