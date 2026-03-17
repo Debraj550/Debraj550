@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on MERN Stack and Deep learning project.
 - 👨‍💻 Portfolio - [debrajdhar.com](https://debrajdhar.com/)
-- ⬇️ Resume / CV - [Debraj_Dhar_CV](https://drive.google.com/file/d/1Zvpub6bPrr8RSBn-mQHvBEY0nIwzr7gZ/view?usp=drive_link)
+- ⬇️ Resume / CV - [Debraj_Dhar_CV]([https://drive.google.com/file/d/1Zvpub6bPrr8RSBn-mQHvBEY0nIwzr7gZ/view?usp=drive_link](https://drive.google.com/file/d/1MB6SF2pdX9Po1iH_A_iulRUHn1mhpIpK/view?usp=drive_link))
 - 📫 Reach me at - debrajdhar100@gmail.com
 - ⚡ Fun fact: I love traveling, reading fantasy novels, watching K-Drama and animes. I love CATS.
 
