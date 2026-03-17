@@ -6,7 +6,6 @@
 
 ## About Me
 
-- 🔭 I’m currently working on MERN Stack and Deep learning project.
 - 👨‍💻 Portfolio - [debrajdhar.com](https://debrajdhar.com/)
 - ⬇️ Resume / CV - [CV](https://drive.google.com/file/d/1MB6SF2pdX9Po1iH_A_iulRUHn1mhpIpK/view?usp=drive_link)
 - 📫 Reach me at - debrajdhar100@gmail.com
